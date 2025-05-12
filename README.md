@@ -10,7 +10,7 @@
     <img src="https://streak-stats.demolab.com/?user=fasnas&theme=chartreuse-dark&hide_border=true&fire=DD2727" alt="GitHub Streak"/>
   </a>
   <br /><br />
-  <img src="https://leetcard.jacoblin.cool/fasnas?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/8943523342?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
 </div>
 
 <br />
