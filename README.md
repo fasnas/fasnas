@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turnin
 ## 💡 About Me
 
 - 👨‍💻 I specialize in both **Frontend** and **Backend** development using the latest tech stacks.
-- 🚀 I'm currently focused on building **modern web applications** using  **Node.js Core** and **React**. 
+- 🚀 I'm currently focused on building **modern web applications** using  **Node.js** and **React**. 
 - 🔁 I’m a strong believer in **Clean Code**, **Agile practices**, and continuous learning.
 - 🌐 I enjoy solving real-world problems — from **e-commerce platforms** to **service-based portals**.
 - 🧠 Constantly learning new technologies, especially in the **JS ecosystem** and **React ecosystem**. 
@@ -13,7 +13,20 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turnin
 
 
 - 💻 I'm proficient in:  
-   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![.NET Core](https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white) ![Web API](https://img.shields.io/badge/-Web_API-1E90FF?style=flat&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white) ![Dapper](https://img.shields.io/badge/-Dapper-512BD4?style=flat&logo=dotnet&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat&logo=dotnet&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-32CD32?style=flat&logo=scrumalliance&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Context API](https://img.shields.io/badge/-Context_API-282C34?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+  -HTML5
+  -CSS3
+  -JAVASCRIPT
+  -REACT
+  -REDUX
+  -CONTEXT API
+  -REACT QUERY
+  -EXPRES
+  -NODE.JS
+  -MONGODB
+  -MONGOOSE
+  -JWT
+  -WEB API
+  
 
 
 
