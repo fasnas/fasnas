@@ -2,22 +2,22 @@
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajayjoseph-creator&label=Profile%20views&color=blueviolet&style=plastic" alt="ajayjoseph-creator" />
+  <img src="https://komarev.com/ghpvc/?username=fasnas&label=Profile%20views&color=blueviolet&style=plastic" alt="fasnas" />
 </p>
 
 <div align="center"> 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=chartreuse-dark&hide_border=true&fire=DD2727" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=fasnas&theme=chartreuse-dark&hide_border=true&fire=DD2727" alt="GitHub Streak"/>
   </a>
   <br /><br />
-  <img src="https://leetcard.jacoblin.cool/ajay_joseph123?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/fasnas?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasnas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
@@ -30,13 +30,13 @@
 - 💬 Ask me about *JavaScript, React, Node.js, Express.js, MongoDB ,Tailwind ,HTML,CSS*  
 - ⚡ Fun Fact: *I love solving problems, whether it's coding or real-life challenges!*  
 - 📫 Reach me at *aj2506039@gmail.com*
-- 🕸  My portfolio *https://ajays-creative-canvas.vercel.app/*
+- 🕸 My portfolio: *[fasnas.vercel.app](https://fasnas.vercel.app)* *(update if different)*
 
 ---
 
 ## 🏅 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajayjoseph-creator&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fasnas&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -67,7 +67,6 @@
   <td align="center"><img src="https://vetores.org/d/bootstrap.svg" alt="Bootstrap" width="40" height="40"/></td>
   <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></td>
 <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/></td>
-
 </tr>
 <tr>
   <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" height="62" /></td>
@@ -75,11 +74,9 @@
 </table>
 </p>
 
-
-
 ## 📊 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayjoseph-creator&theme=dark-modern&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fasnas&theme=dark-modern&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
