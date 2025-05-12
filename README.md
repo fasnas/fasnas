@@ -1,86 +1,33 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fasnas</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India</h3>
+# Hi there, I'm Muhammad Fasnas! 👋 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fasnas&label=Profile%20views&color=blueviolet&style=plastic" alt="fasnas" />
-</p>
+Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turning ideas into clean, scalable, and efficient applications. Whether it's a pixel-perfect UI or a robust backend API, I enjoy building end-to-end solutions that make an impact.
 
-<div align="center"> 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=fasnas&theme=chartreuse-dark&hide_border=true&fire=DD2727" alt="GitHub Streak"/>
-  </a>
-  <br /><br />
-  <img src="https://leetcard.jacoblin.cool/8943523342?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
-</div>
+## 💡 About Me
 
-<br />
+- 👨‍💻 I specialize in both **Frontend** and **Backend** development using the latest tech stacks.
+- 🚀 I'm currently focused on building **modern web applications** using  **Node.js Core** and **React**. 
+- 🔁 I’m a strong believer in **Clean Code**, **Agile practices**, and continuous learning.
+- 🌐 I enjoy solving real-world problems — from **e-commerce platforms** to **service-based portals**.
+- 🧠 Constantly learning new technologies, especially in the **JS ecosystem** and **React ecosystem**. 
+- 🤝 I love collaborating with teams .
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasnas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+- 💻 I'm proficient in:  
+   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![.NET Core](https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white) ![Web API](https://img.shields.io/badge/-Web_API-1E90FF?style=flat&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white) ![Dapper](https://img.shields.io/badge/-Dapper-512BD4?style=flat&logo=dotnet&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat&logo=dotnet&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-32CD32?style=flat&logo=scrumalliance&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Context API](https://img.shields.io/badge/-Context_API-282C34?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-## 🏆 About Me:
-- 🔭 Currently working as a *MERN Stack Developer* at *Bridgeon Solutions LLP*  
-- 🌱 Learning *Redux & GitHub*  
-- 🎯 Currently Focusing on *Building Scalable & Optimized Web Apps*  
-- 💬 Ask me about *JavaScript, React, Node.js, Express.js, MongoDB ,Tailwind ,HTML,CSS*  
-- ⚡ Fun Fact: *I love solving problems, whether it's coding or real-life challenges!*  
-- 📫 Reach me at *aj2506039@gmail.com*
-- 🕸 My portfolio: *[fasnas.vercel.app](https://fasnas.vercel.app)* *(update if different)*
 
----
 
-## 🏅 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fasnas&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
+- 📫 How to reach me: [abdulla.sabithp@gmail.com](mailto:abdulla.sabithp@gmail.com)
 
----
+- Leetcode
+- [![LeetCode Stats](https://leetcard.jacoblin.cool/8943523342)](https://leetcode.com/8943523342/) 
+   
 
-## 📞 Connect with Me:
-<p>
-  <a href="https://www.instagram.com/ajay..joseph./?__pwa=1" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ajay-joseph-077444313/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
+## Connect with Me
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-fasnas/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/8943523342) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.fasnas) 
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+918943523342) 
 
-## 🛠 Tech Stack:
-<p align="center">
-<table>
-<tr>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48"/></td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></td>
-  <td align="center"><img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="Node.js" width="65" height="65" /></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
-  <td align="center"><img src="https://vetores.org/d/bootstrap.svg" alt="Bootstrap" width="40" height="40"/></td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></td>
-<td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" height="62" /></td>
-</tr>
-</table>
-</p>
-
-## 📊 GitHub Activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fasnas&theme=dark-modern&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg" alt="Footer"/>
-</p>
+[![](https://visitcount.itsvg.in/api?id=sa&icon=0&color=0)](https://visitcount.itsvg.in)
