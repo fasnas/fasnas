@@ -30,9 +30,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turnin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Json_web_token_logo.svg" alt="JWT" width="40" height="40"/>
-  <img src="https://razorpay.com/favicon.ico" alt="Razorpay" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1664468622/logo/brand/cloudinary_icon_blue.svg" alt="Cloudinary" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
