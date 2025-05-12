@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turnin
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/>
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Context API" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/remix-run/react-router@main/website/static/favicon-light.svg" alt="React Router DOM" width="40" height="40"/>
+  
   <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
