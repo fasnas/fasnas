@@ -10,28 +10,31 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turnin
 - 🌐 I enjoy solving real-world problems — from **e-commerce platforms** to **service-based portals**.
 - 🧠 Constantly learning new technologies, especially in the **JS ecosystem** and **React ecosystem**. 
 - 🤝 I love collaborating with teams .
+- 
+## 🚀 Frontend Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/>
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Context API" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/remix-run/react-router@main/website/static/favicon-light.svg" alt="React Router DOM" width="40" height="40"/>
+  <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</p>
 
-
-- 💻 I'm proficient in:  
-  -HTML5
-  -CSS3
-  -JAVASCRIPT
-  -REACT
-  -REDUX
-  -CONTEXT API
-  -REACT QUERY
-  -EXPRES
-  -NODE.JS
-  -MONGODB
-  -MONGOOSE
-  -JWT
-  -WEB API
- 🚀 Frontend
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/> <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/> <img src="https://vetores.org/d/bootstrap.svg" alt="Bootstrap" width="40" height="40"/> </p>
-💻 Backend
-<p> <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="Node.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </p>
-
-
+## 💻 Backend Tech Stack
+<p>
+  <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Json_web_token_logo.svg" alt="JWT" width="40" height="40"/>
+  <img src="https://razorpay.com/favicon.ico" alt="Razorpay" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1664468622/logo/brand/cloudinary_icon_blue.svg" alt="Cloudinary" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 - 📫 How to reach me: [fasnas001@gmail.com](mailto:fasnas001@gmail.com) 
 
