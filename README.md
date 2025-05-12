@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turnin
 
 
 
-- 📫 How to reach me: [abdulla.sabithp@gmail.com](mailto:abdulla.sabithp@gmail.com)
+- 📫 How to reach me: [fasnas001@gmail.com](mailto:fasnas001@gmail.com) 
 
 - Leetcode
 - [![LeetCode Stats](https://leetcard.jacoblin.cool/8943523342)](https://leetcode.com/8943523342/) 
