@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turnin
 - 📫 How to reach me: [fasnas001@gmail.com](mailto:fasnas001@gmail.com) 
 
 - Leetcode
-- [![LeetCode Stats](https://leetcard.jacoblin.cool/8943523342)](https://leetcode.com/8943523342/) 
+- [![LeetCode Stats](https://leetcard.jacoblin.cool/fasnas)](https://leetcode.com/fasnas/) 
    
 
 ## Connect with Me
